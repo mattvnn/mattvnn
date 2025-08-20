@@ -1,4 +1,4 @@
-<h3>Atualmente cursando o 4° semestre de Análise e Desenvolvimento de Sistemas no IFSC.</h3>
+<h3>Atualmente cursando o 5° semestre de Análise e Desenvolvimento de Sistemas no IFSC.</h3>
 
 <h1></h1>
 
